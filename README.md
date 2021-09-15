@@ -1,6 +1,6 @@
 ### HELLO WORLD,I'M NAVODAYA VARMA K 👋
 
-- 🔭 I’m currently working on LINUX
+- 🔭 I’m currently working on MACHINE LEARNING
 - 🌱 I’m currently learning PROGRAMING
 - 👯 I’m looking to collaborate on GOOGLE
 - 🤔 I’m looking for help with ETHICAL HACKERS
