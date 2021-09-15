@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navodayavarmak" alt="navodayavarmak" /></a> </p>
 
-- 🔭 I’m currently working on **machine learning**
+- 🔭 I’m currently working on **MACHINE LEARNING**
 
-- 🌱 I’m currently learning **programing stuff**
+- 🌱 I’m currently learning **PROGRAMING STUFF**
 
-- 👯 I’m looking to collaborate on **google**
+- 👯 I’m looking to collaborate on **GOOGLE**
 
-- 💬 Ask me about **python,online games**
+- 💬 Ask me about **PYTHON,ONLINE GAMES**
 
 - 📫 How to reach me **kv3121@srmist.edu.in**
 
@@ -35,4 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navodayavarmak&show_icons=true&locale=en" alt="navodayavarmak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navodayavarmak&" alt="navodayavarmak" /></p>
+
 
