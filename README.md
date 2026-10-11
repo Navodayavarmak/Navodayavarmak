@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=900&color=00F0B5&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+Navodaya+Varma+Kucharlapati;%24+cat+mission.txt+%E2%86%92+safe%2C+secure%2C+reliable+code;%24+ls+%2Fskills+%E2%86%92+C+%7C+Python+%7C+Linux+%7C+RF+%7C+Firmware;%24+sudo+hack+%E2%80%94-ethically+%F0%9F%94%90" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00F0B5&center=true&vCenter=true&width=720&lines=Navodaya+Varma+Kucharlapati;Embedded+Software+Engineer;Safe+%2B+Secure+%2B+Reliable+code;Builder+by+day.+Breaker+by+night." alt="typing banner" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=navodayavarmak&label=boot_count&color=00f0b5&style=flat-square)
 ![Bangalore](https://img.shields.io/badge/📍_Bangalore-IN-0d1117?style=flat-square&labelColor=00f0b5)
 ![Honeywell](https://img.shields.io/badge/Honeywell_Aerospace-Embedded_SW_Eng_II-e4002b?style=flat-square)
-![DAL-A](https://img.shields.io/badge/safety--critical-DAL--A-0d1117?style=flat-square&labelColor=ff6b35)
+![Avionics](https://img.shields.io/badge/Avionics-Safety_Critical-ff6b35?style=flat-square)
 
 </div>
 
@@ -27,7 +27,7 @@ class Navodaya:
     base        = "Bangalore, India 🇮🇳"
     education   = "B.Tech ECE, SRM Institute of Science & Technology"
 
-    day_job     = ["DAL-A avionics software", "Aviation IP stack",
+    day_job     = ["Safety-critical avionics software", "Aviation IP stack",
                    "DSP/CLA optimisation on TI C2000", "V&V: UT, SI, HSI"]
     after_hours = ["Embedded / IoT / firmware security",
                    "Hardware & RF tinkering", "Shipping a card game to Google Play"]
@@ -54,7 +54,7 @@ class Navodaya:
 + using image enhancement and processing.
 + Wrote a script that generated ~100 ready-to-run tests in one go.
 + Built custom productivity tools: ECTM Parser, ECTM Validator, Coverity Report Generator.
-+ Drafted the first High-Level Requirements for a DAL-A software component.
++ Drafted the first High-Level Requirements for a safety-critical software component.
 + Delivered 100% of test-development milestones on a V&V program.
 + Completed Honeywell's Young Aviator Program with a hands-on project.
 ```
