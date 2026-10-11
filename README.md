@@ -5,7 +5,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=navodayavarmak&label=boot_count&color=00f0b5&style=flat-square)
 ![Bangalore](https://img.shields.io/badge/📍_Bangalore-IN-0d1117?style=flat-square&labelColor=00f0b5)
 ![Honeywell](https://img.shields.io/badge/Honeywell_Aerospace-Embedded_SW_Eng_II-e4002b?style=flat-square)
-![Avionics](https://img.shields.io/badge/Avionics-Safety_Critical-ff6b35?style=flat-square)
 
 </div>
 
