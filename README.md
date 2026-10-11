@@ -1,47 +1,128 @@
-<h1 align="center">print(f"HII! 👋,{ I'm NAVODAYA VARMA K} ")</h1>
-<h3 align="center">A CURIOUS GUY WORKING ON NEW THINGS</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navodayavarmak&label=Profile%20views&color=0e75b6&style=flat" alt="navodayavarmak" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=900&color=00F0B5&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+Navodaya+Varma+Kucharlapati;%24+cat+mission.txt+%E2%86%92+safe%2C+secure%2C+reliable+code;%24+ls+%2Fskills+%E2%86%92+C+%7C+Python+%7C+Linux+%7C+RF+%7C+Firmware;%24+sudo+hack+%E2%80%94-ethically+%F0%9F%94%90" alt="typing banner" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navodayavarmak" alt="navodayavarmak" /></a> </p>
+![Profile views](https://komarev.com/ghpvc/?username=navodayavarmak&label=boot_count&color=00f0b5&style=flat-square)
+![Bangalore](https://img.shields.io/badge/📍_Bangalore-IN-0d1117?style=flat-square&labelColor=00f0b5)
+![Honeywell](https://img.shields.io/badge/Honeywell_Aerospace-Embedded_SW_Eng_II-e4002b?style=flat-square)
+![DAL-A](https://img.shields.io/badge/safety--critical-DAL--A-0d1117?style=flat-square&labelColor=ff6b35)
 
-- 🔭 I’m currently working on **MACHINE LEARNING**
+</div>
 
-- 🌱 I’m currently learning **PROGRAMING STUFF**
+```text
+┌──[navodaya@aerospace]──[~]
+└─$ cat /etc/motd
 
-- 👯 I’m looking to collaborate on **GOOGLE**
+   I write firmware that has to work at 35,000 feet,
+   then go home and try to break things on my bench.
+   Builder by day. Breaker by night. Both ethically.
+```
 
-- 💬 Ask me about **PYTHON,ONLINE GAMES**
+## `> about_me.sh`
 
-- 📫 How to reach me **kv3121@srmist.edu.in**
+```python
+class Navodaya:
+    role        = "Embedded Software Engineer II @ Honeywell Aerospace"
+    experience  = "3.5 yrs shipping code where failure is not an option"
+    base        = "Bangalore, India 🇮🇳"
+    education   = "B.Tech ECE, SRM Institute of Science & Technology"
 
-- ⚡ Fun fact **I KNOW LITTLE ,USED TO GOOGLE A LOT**
+    day_job     = ["DAL-A avionics software", "Aviation IP stack",
+                   "DSP/CLA optimisation on TI C2000", "V&V: UT, SI, HSI"]
+    after_hours = ["Embedded / IoT / firmware security",
+                   "Hardware & RF tinkering", "Shipping a card game to Google Play"]
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/navodaya varma kucharlapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navodaya varma kucharlapati" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16497231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16497231" height="30" width="40" /></a>
-<a href="https://kaggle.com/navodaya varma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="navodaya varma" height="30" width="40" /></a>
-<a href="https://fb.com/navodaya varna k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="navodaya varna k" height="30" width="40" /></a>
-<a href="https://instagram.com/navodayavarma_kucharlapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navodayavarma_kucharlapati" height="30" width="40" /></a>
-<a href="https://discord.gg/#0919" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0919" height="30" width="40" /></a>
-</p>
+    def philosophy(self):
+        return "Software that is safe, secure and still running years later."
+```
 
+## `> now_playing`
 
+| Track | Status |
+|---|---|
+| 🛰️ **Aviation IP stack** | WiFi radio control, peer-assisted WiFi, 802.11 internals on Debian-based embedded targets |
+| 🔐 **Embedded security pivot** | Firmware, hardware and IoT security, with a safety-critical background and an attacker mindset |
+| 🃏 **Least Count** | Multiplayer card game for Android, heading to Google Play |
+| 🧪 **Hardware / RF lab** | Tinkering and learning how radios really behave |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## `> war_stories.log`
 
-<hr>
+```diff
++ Enabled the C28x CLA on a TMS320F28388D controller, moved the speed controller
++ block off the main CPU and cut execution time by ~3.5 ms.
++ Built a tool that turns raw flowchart images into logic truth tables
++ using image enhancement and processing.
++ Wrote a script that generated ~100 ready-to-run tests in one go.
++ Built custom productivity tools: ECTM Parser, ECTM Validator, Coverity Report Generator.
++ Drafted the first High-Level Requirements for a DAL-A software component.
++ Delivered 100% of test-development milestones on a V&V program.
++ Completed Honeywell's Young Aviator Program with a hands-on project.
+```
 
-<p align="center">
-  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+## `> arsenal`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navodayavarmak&show_icons=true&locale=en&layout=compact" alt="navodayavarmak" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navodayavarmak&show_icons=true&locale=en" alt="navodayavarmak" /></p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navodayavarmak&" alt="navodayavarmak" /></p>
+</div>
 
+```text
+embedded   : TI C2000 (TMS320F28x) · CLA · UART · PIC · microcontroller bring-up & debug
+networking : 802.11 / WiFi · DHCP · dnsmasq · SSH hardening · syslog · FTP/DNS/NTP
+security   : PKI & certificates · Coverity static analysis · DDoS detection (ML)
+test/V&V   : VectorCAST · Unit / Integration / HSI testing · custom test automation
+```
 
+## `> side_quests`
+
+| Project | What it does |
+|---|---|
+| 💡 **Li-Fi data link** | Sent MP3/MP4 files over visible light using PIC16F877A + UART, with a TX and an RX unit |
+| 🛡️ **DDoS detector** | ML classifier on an SDN dataset (23 features, ~1 lakh rows); [published in IJSIET](https://github.com/Navodayavarmak/DDOS_ATTACK_ANALYSIS_USING_ML_AND_DL) |
+| 🏢 **Secure Server Room** | Syslog server, MD5-masked router credentials, secure SSH/Telnet, DHCP, DNS, NTP, FTP ([repo](https://github.com/Navodayavarmak/Secure-Server-Room-Design)) |
+| 🤖 **Discord bot** | Admin tools, welcome banners, login database and filtering ([repo](https://github.com/Navodayavarmak/DISCORD-BOT)) |
+| 🗣️ **Voice assistant** | Python voice assistant built to help visually impaired users, automating WhatsApp and email |
+
+## `> certs && credentials`
+
+```text
+[✔] Introduction to Python for Cybersecurity   — Infosec
+[✔] Machine Learning with Python               — IBM
+[✔] Databases and SQL for Data Science         — IBM
+[✔] Publication: "DDoS Attack Analysis using Machine Learning" — IJSIET
+```
+
+## `> telemetry`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=navodayavarmak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navodayavarmak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top langs" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=navodayavarmak&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
+
+</div>
+
+## `> connect --me`
+
+<div align="center">
+
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16497231)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/navodayavarma_kucharlapati)
+
+```text
+$ echo "Open to talking about: embedded security, avionics software, WiFi internals,
+        RF hacking, and anything that boots from a UART prompt." 
+```
+
+<sub>`exit 0` · thanks for stopping by ⚡</sub>
+
+</div>
